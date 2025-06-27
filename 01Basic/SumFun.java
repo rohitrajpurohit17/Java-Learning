@@ -18,7 +18,6 @@ public class SumFun {
            fact *= i;
         }
         System.out.println(fact);
-        return;
     }
     public static void main(String[] args) {
         double num1 = 10;
