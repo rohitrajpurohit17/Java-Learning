@@ -6,7 +6,7 @@ class Car{
         // If you creating a class under a class then that 
         // class is known as Inner class
 
-        // Inner class can be static also  Outter class can't be static 
+        // Inner class can be static also...  Outter class can't be static 
 
     }
     //   static  class  BMW

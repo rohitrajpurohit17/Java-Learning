@@ -6,11 +6,11 @@
 // of Abstract class
 abstract class Car{
     // To create the abstract method we to just delcare it 
-    // NOt to inislise it 
+    // NOt to initialize it 
     // As shown below
     abstract void drive();
 
-    // we can also create other method is abstract class
+    // we can also create other method in abstract class
     void playMusic(){
         System.out.println("Playing music ");
     }
@@ -33,7 +33,7 @@ public class AbstractionDemo {
 
     public static void main(String[] args) {
         // so we can't create the object of abstract class
-        //  now we craete teh obeject of class that extends it 
+        //  now we craete the obeject of class that extends it 
         Car c = new BMW();
         // Both are right
         // BMW c = new BMW();
