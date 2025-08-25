@@ -19,6 +19,7 @@ abstract class Car{
 
 // To call the Abstract class method you need to create 
 // Another class to call the method of abstract class
+// You cna only Extend one Abstract class at a time
 class BMW extends Car{
     // if a class is extends Abstract class then it must 
     // insialise the abstarct method created in abstarct class
